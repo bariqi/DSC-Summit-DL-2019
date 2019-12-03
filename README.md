@@ -2,7 +2,7 @@
 Repository ini digunakan sebagai bahan training/workshop pada DSC Summit Telkom 2019
 
 
-# [Windows](## Untuk Pengguna Windows)
+# [Windows](##Untuk Pengguna Windows)
 
 ## 1. Prerequisite
 1. Install anaconda
